@@ -10,8 +10,9 @@ Thanks For Channel SoftHacking
 ## Install
 
 * apt-get update -y
-* apt-get install git python
+* apt-get install git python python-pip -y
 * git clone https://github.com/uidops/proxy.git
 * cd proxy/
+* pip install -r requirements.txt
 * python proxy.py
 
