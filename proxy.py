@@ -21,7 +21,7 @@ print
 print "Developer: Sir.uidops"
 print "E-mail   : Sir.u1d0p5@gmail.com"
 print "Telegram : https://t.me/Sir_uidops"
-print "Github   : https://github.com/uidops/"
+print "Github   : https://github.com/siruidos/"
 print
 
 try:
